@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/01_Landscape/SM_EuropeanHornbeam_Field_02_WPO.uasset
+Content/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Field_02_PP.uasset
+Content/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Field_02.uasset
